@@ -74,3 +74,6 @@ body{
         float: none;
     }
   }
+  table{
+    float: left;
+  }
