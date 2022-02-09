@@ -77,3 +77,8 @@ body{
   table{
     float: left;
   }
+  footer{
+    width: 100%;
+    float: right;
+    background-color: aqua;
+  }
