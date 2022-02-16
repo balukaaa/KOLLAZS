@@ -85,4 +85,5 @@ body{
   fieldset{
     width: 35%;
     border-color: aqua;
+    float: initial;
   }
