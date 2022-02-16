@@ -82,4 +82,7 @@ body{
     float: right;
     background-color: aqua;
   }
-  fieldset{width: 35%;}
+  fieldset{
+    width: 35%;
+    border-color: aqua;
+  }
